@@ -35,7 +35,7 @@
 - Рекомендации по обновлению компонентов
 - Оценка совместимости компонентов
   
- ![image](https://github.com/user-attachments/assets/0ee26ddc-fdfc-4bb1-a67b-f349457a4853)
+  ![image](https://github.com/user-attachments/assets/0ee26ddc-fdfc-4bb1-a67b-f349457a4853)
 
 ### Особенности
 - Современный графический интерфейс
