@@ -1,0 +1,8 @@
+psutil>=5.9.0
+speedtest-cli==2.1.3
+pywin32>=305
+pyinstaller
+GPUtil>=1.4.0
+wmi>=1.5.1
+requests>=2.25.1
+WMI>=1.5.1 
