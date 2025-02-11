@@ -42,5 +42,5 @@
 - GPUtil: `pip install GPUtil`
 
   
-   ##или установить все соразу bash pip install psutil pywin32 wmi speedtest-cli GPUtil
+   ## или установить все соразу bash pip install psutil pywin32 wmi speedtest-cli GPUtil
   
