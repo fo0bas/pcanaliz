@@ -34,7 +34,7 @@
 - Интуитивно понятное управление
 - Детальная информация о системе
 
-  модули для установки
+ ## модули для установки
 - psutil: `pip install psutil`
 - pywin32: `pip install pywin32`
 - wmi: `pip install wmi`
