@@ -2,6 +2,7 @@
 Программа для комплексного анализа компьютера с графическим интерфейсом, включающая следующие основные функции:
     ![image](https://github.com/user-attachments/assets/bd44edde-1644-4098-8138-dbfeab61ffd1)
 
+<a href="https://disk.yandex.ru/d/HRLS-4CYx3h6gg" target="_blank">СКАЧАТЬ PC ANALIZ</a>
 
 ### 1. Анализ ПК
 - Мониторинг загрузки процессора, памяти и других системных ресурсов
