@@ -49,4 +49,11 @@
   
    ## или установить все сразу
   - bash pip install psutil pywin32 wmi speedtest-cli GPUtil
+ 
+  ## GitHub репозитории модулей:
+- https://github.com/giampaolo/psutil
+- https://github.com/mhammond/pywin32
+- https://github.com/tjguk/wmi
+- https://github.com/sivel/speedtest-cli
+- https://github.com/anderskm/gputil
   
